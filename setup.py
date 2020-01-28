@@ -24,7 +24,7 @@ setup(
         python_requires='>=3.6',
         install_requires=[
                 # Add external libraries here.
-                'tensorflow-gpu==1.12.0',
+                'tensorflow-gpu==1.15.2',
                 'numpy',
                 'matplotlib',
                 'pandas',
